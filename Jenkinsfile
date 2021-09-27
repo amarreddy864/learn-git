@@ -7,14 +7,14 @@ stage ('cloning clode from github')
 {
 steps
 {
-sh 'touch abc'  
+sh 'touch amar'  
 }
 }
 stage ('testing the code')
 {
 steps
 {
-sh 'touch efg'    
+sh 'touch sai'    
 }
 }
 stage ('bulding the code')
